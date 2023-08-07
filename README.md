@@ -83,7 +83,7 @@ Throughout my career, I have spearheaded approximately 10 projects, from concept
 <br>
 <br>
 <p align="center">Let's connect!</p>
-<a href="https://www.twitter.com/waqad_arshad/">
+<a href="https://twitter.com/saif45152">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
