@@ -87,26 +87,26 @@ Throughout my career, I have spearheaded approximately 10 projects, from concept
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/waqad_arshad/">
+<a href="https://www.instagram.com/saif45152/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/waqad-arshad">
+<a href="https://www.linkedin.com/in/saif-ullah-pathan/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://wa.me/message/3IVXH7LJFEPTH1">
+<a href="https://wa.me/message/923057495695">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<a href="https://www.fiverr.com/waqadarshad">
+<a href="https://www.fiverr.com/saifullah45152?up_rollout=true">
     <img src="https://img.shields.io/badge/Fiverr-%230077B5.svg?&style=for-the-badge&logo=fiverr&color=darkgreen&logoColor=white" />
 </a>
-<a href="https://www.upwork.com/freelancers/waqadarshad">
+<a href="https://www.upwork.com/freelancers/~01df4f52d1b6b9d80e">
     <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/waqad.arshad.2/">
+<a href="https://web.facebook.com/profile.php?id=100011377004386">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
