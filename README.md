@@ -68,9 +68,10 @@ Throughout my career, I have spearheaded approximately 10 projects, from concept
 - 🙋‍♂️ CTO at [Tosty Developers][tostydevs]
 - 👉 Leading a group of developers
 - 💻 The tech I'm interested in: Flutter/ML/Face Recognition etc.
-- ✍ Technical writer & Flutter Developer at [Fiverr][fiverr]
+- ✍ Flutter Developer at [Fiverr][fiverr]
 - ✨ I'm learning Flutter, Firebase, Automation etc.
 - 🎮 PubG player
+- 🎮 Ludo Star
 <!-- - 📄 Live [Portfolio][profile] -->
 <!-- - 🎨 [Dribbble][dribbble] profile -->
 
